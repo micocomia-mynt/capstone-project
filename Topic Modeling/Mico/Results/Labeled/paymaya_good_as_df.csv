@@ -1,0 +1,435 @@
+date,title_review_tokenized,Topic
+2020-01-05 05:58:26,"['verification', 'error', 'account', 'labled', 'duplicate', 'account', 'already', 'sent', 'email', 'ones', 'replying']",Transaction Related
+2020-01-06 03:34:12,"['nice', 'great', 'convenient', 'useful', 'lots', 'surprises', 'guaranteed', 'give', 'rebates', 'power', 'horaaaaaaayyy']",Ease of Use
+2020-01-10 04:52:05,"['sad', 'review', 'poor', 'customer_service']",Convenience
+2020-01-19 03:38:01,"['inconsistent', 'almost', 'ate', 'money', 'issues', 'since', 'sometimes', 'use', 'grab', 'driver', 'cancels', 'deducts', 'account', 'refunding', 'process', 'cumbersome', 'well', 'rather', 'delete', 'waste', 'money']",Convenience
+2020-01-27 18:37:39,"['need', 'never', 'ever', 'get', 'tired', 'recommending', 'people', 'know', 'came', 'across', 'sometime', 'ago', 'first', 'thought', 'ewallet', 'clutter', 'phone', 'telling', 'downloading', 'best', 'thing', 'ever', 'happened', 'useful', 'quite', 'generous', 'comes', 'deals', 'whatnots', 'could', 'gove', 'stars', 'rating', 'avid', 'user', 'almost', 'yrs', 'never', 'ever', 'encountered', 'problems', 'kudos', 'behind', 'amazing', 'tool', 'look', 'forward', 'relevant', 'promos', 'soon']",Convenience
+2020-02-02 14:18:46,"['best', 'know', 'use', 'going', 'make', 'life', 'much', 'easier', 'pay', 'bills', 'get', 'send_money', 'anyone', 'without', 'hassle', 'oh', 'send', 'load', 'cheaper', 'price', 'additional', 'fees', 'glad', 'friend', 'indroduced', 'use', 'paying', 'online', 'purchases', 'netflix', 'spotify', 'writing', 'review', 'satisfied', 'believe', 'many', 'bad', 'reviews', 'know', 'use', 'anyways', 'give', 'chance']",Convenience
+2020-02-05 03:53:58,"['great', 'convenient', 'online', 'shopping']",Convenience
+2020-02-05 06:40:16,"['helpful', 'thanks']",Ease of Use
+2020-02-05 06:43:50,"['paymayaaa', 'great']",Ease of Use
+2020-02-05 06:48:06,"['cool', 'innovative', 'everyday', 'transactions']",Ease of Use
+2020-02-06 02:00:57,['review'],Ease of Use
+2020-02-06 07:04:18,"['great', 'service', 'really', 'convenient', 'easily', 'integrated', 'anyones', 'life', 'students']",Ease of Use
+2020-02-06 07:04:33,"['rfid', 'versatile', 'glad', 'part', 'rfid', 'transactions', 'easier']",Ease of Use
+2020-02-06 07:07:56,"['perfect', 'best', 'ever', 'id', 'linked', 'convenient']",Ease of Use
+2020-02-08 01:13:24,"['banks', 'ph', 'comes', 'money', 'lot', 'things', 'hassle', 'call', 'someone', 'check', 'needed', 'pass', 'call', 'get', 'done', 'day', 'visit', 'freaking', 'local', 'branch', 'customer_service', 'online_transactions', 'seriously', 'good', 'enough', 'deal', 'transactions', 'virtual', 'card', 'compared', 'banks', 'ph', 'lot', 'better', 'honest', 'keep']",Ease of Use
+2020-02-09 02:10:11,"['accesible', 'hope', 'gasoline', 'station']",Ease of Use
+2020-02-10 03:13:07,"['helping', 'customer', 'fast', 'times', 'trouble', 'appreciated', 'fast', 'service', 'solving', 'problem', 'customer', 'preventing', 'happening', 'thankyou', 'team']",Customer Support Related
+2020-02-12 17:11:46,"['best', 'virtual', 'card', 'love', 'payment', 'highly', 'recommended', 'hassle_free']",Ease of Use
+2020-02-14 01:40:28,"['atm', 'dispute', 'learned', 'cash', 'back', 'reward', 'programs', 'ability', 'use', 'online', 'purchases', 'convenience', 'able', 'fund', 'realtime', 'store', 'bpi', 'savings', 'could', 'borrow', 'small', 'sum', 'money', 'little', 'interest', 'thought', 'best', 'ever', 'issue', 'atm', 'withdrawal', 'made', 'two', 'withdrawal', 'attempts', 'first', 'transaction', 'cancelled', 'first', 'transaction', 'debited', 'reverse', 'ended', 'negative', 'balance', 'could', 'use', 'remaining', 'funds', 'called', 'told', 'take', 'two', 'business', 'days', 'research', 'issue', 'resolve', 'waited', 'third', 'business', 'day', 'negative', 'balance', 'called', 'utter', 'disappointment', 'told', 'wait', 'apparently', 'thought', 'case', 'researched', 'actually', 'waiting', 'time', 'transaction', 'reverse', 'asked', 'speak', 'supervisor', 'told', 'wait', 'another', 'week', 'could', 'believe', 'money', 'money', 'needed', 'use', 'fault', 'completely', 'lost', 'access', 'could', 'anything', 'make', 'funds', 'available', 'received', 'reversal', 'account', 'th', 'business', 'day', 'since', 'never', 'issue', 'first_time', 'reach', 'customer_service', 'treated', 'joke', 'might', 'continue', 'use', 'services', 'longer', 'trust', 'money', 'good', 'hands', 'considered', 'use', 'reservoir', 'cash', 'flow', 'changed', 'mind', 'great', 'product', 'terrible', 'customer', 'experience']",Ease of Use
+2020-02-14 16:25:55,"['getting', 'better', 'looking', 'forward', 'new', 'features']",Convenience
+2020-02-21 14:27:39,"['looking', 'invite', 'code', 'pesos', 'hi', 'use', 'invite', 'code', 'pesos', 'free', 'xdz', 'much']",Ease of Use
+2020-02-26 10:57:05,"['poor', 'customer_service', 'grabe', 'customer_service', 'super', 'poor', 'sobrang', 'tagal', 'sagutin', 'tawag', 'minutes', 'sagutin', 'galit', 'sumagot', 'improve', 'customer_service', 'super', 'duper', 'poor']",Convenience
+2020-03-03 06:41:43,"['payment', 'posted', 'week', 'go', 'use', 'bills_payment', 'payment', 'posted', 'unpaid', 'bills', 'globe', 'primewater', 'bills', 'happen', 'kindly', 'give', 'answer', 'regarding', 'hassle', 'possible', 'cut', 'line']",Ease of Use
+2020-03-05 23:45:18,"['dark', 'mode', 'implement', 'dark', 'mode']",Ease of Use
+2020-03-09 07:45:58,"['issues', 'somebody', 'team', 'advised', 'good', 'go', 'response']",Ease of Use
+2020-03-11 12:10:39,"['bills_payment', 'want', 'suggest', 'add', 'biller', 'citibank', 'credit', 'card', 'payment', 'great', 'power']",Ease of Use
+2020-03-16 16:51:57,"['nice', 'great', 'mobile', 'transactions']",Ease of Use
+2020-03-20 07:22:52,"['good', 'appp', 'good']",Ease of Use
+2020-03-26 15:51:58,"['removed', 'cashin', 'removed', 'cashin']",Ease of Use
+2020-03-30 01:10:54,"['bad', 'service', 'contacting', 'payment', 'made', 'payment', 'reach', 'biller', 'two', 'weeks', 'since', 'payment', 'made', 'writing', 'contacting', 'email', 'messenger', 'call', 'avail', 'one', 'responded', 'resolution', 'offered', 'line', 'cut', 'extra', 'pay', 'bill', 'twice', 'disappointing', 'update', 'ticket', 'provided', 'checked', 'email', 'miyuki', 'replied', 'asking', 'details', 'last', 'march', 'amfor', 'reference', 'isent', 'screenshot', 'email', 'cares', 'messenger', 'provided', 'day', 'got', 'response', 'since', 'communicated', 'cares', 'got', 'response', 'either', 'followedup', 'last', 'march', 'email', 'messenger', 'response']",Transaction Related
+2020-04-16 00:31:32,"['upgrade', 'upgrade', 'account', 'try', 'message', 'one', 'responded', 'need', 'send_money']",Convenience
+2020-04-22 03:43:07,"['great', 'services', 'need', 'months', 'ago', 'whenever', 'purchase', 'ingame', 'charged', 'real', 'time', 'hope', 'could', 'address', 'thanks']",Ease of Use
+2020-04-22 04:49:02,"['best', 'mobile', 'payment', 'aggregator', 'always', 'improved', 'payment', 'services', 'add', 'money', 'credit', 'card', 'facility', 'big', 'plus', 'services']",Ease of Use
+2020-04-29 16:57:36,"['improve', 'monthly', 'limit', 'everything', 'make', 'online_transactions', 'easier', 'without', 'need', 'bank', 'thing', 'account', 'limit', 'little', 'low', 'need', 'increase', 'another', 'since', 'debit', 'card', 'buying', 'groceries', 'stuff', 'willing', 'send', 'verification', 'need']",Transaction Related
+2020-05-02 00:32:23,"['networks', 'tried', 'installing', 'disallowed', 'joining', 'globe', 'service', 'provider', 'open', 'minded']",Transaction Related
+2020-05-06 02:11:56,"['user', 'friendly', 'easy', 'use']",Ease of Use
+2020-05-09 08:04:38,"['include', 'saving', 'bank', 'transfer', 'info', 'let', 'us', 'save', 'biller', 'list', 'info', 'bank', 'transfers', 'made', 'send', 'without', 'typing', 'info']",Transaction Related
+2020-05-10 01:29:23,"['load', 'options', 'really', 'good', 'wonderful', 'see', 'options', 'comes', 'load', 'love', 'see', 'options', 'denominations', 'flexibility', 'great', 'minimum', 'make', 'affordable', 'great']",Ease of Use
+2020-05-12 07:44:09,"['liked', 'added', 'security', 'liked', 'added', 'otp', 'feature', 'additional', 'layer', 'security', 'others', 'plus', 'rather', 'enter', 'otp', 'sorry', 'later', 'useful', 'paying', 'sss', 'international', 'online', 'purchases']",Ease of Use
+2020-05-13 13:57:28,"['best', 'paying', 'ever', 'seen', 'dude', 'buy', 'robux', 'omg']",Ease of Use
+2020-05-15 07:01:02,"['fund', 'transfer', 'problem', 'fund', 'transfer', 'list', 'bank', 'loading', 'proceed', 'fund', 'transfer', 'account', 'hopefully', 'problem', 'solve']",Transaction Related
+2020-05-16 01:53:14,"['failed', 'transfer', 'amount', 'refunded', 'tried', 'transfer', 'amount', 'times', 'account', 'failed', 'reason', 'know', 'refunded', 'twice', 'money', 'gone', 'contact', 'customer', 'support', 'telephone', 'due', 'lots', 'calls', 'customers', 'messenger', 'support', 'responding', 'dismayed', 'ronnie', 'alvarez']",Transaction Related
+2020-05-16 07:31:43,"['billers', 'available', 'try', 'browse', 'pay', 'bill', 'magbayad', 'bills', 'meralco', 'pldt', 'bpi', 'buksan', 'menu', 'pay', 'wala', 'billers', 'meron', 'smart', 'maynilad', 'prine', 'water', 'buti', 'nakapgdeposit', 'nagkataon', 'makuha', 'cash', 'money', 'nka', 'ecq']",Convenience
+2020-05-17 02:51:27,"['inconvenience', 'finest', 'hi', 'service', 'unreliable', 'customer_service', 'support', 'hopeless', 'becoming', 'nightmare', 'soon', 'credits', 'used', 'putting', 'credits', 'smart', 'applying', 'mvp', 'rebates']",Transaction Related
+2020-05-19 09:55:35,"['bad', 'service', 'wag', 'ipagkatiwala', 'pera', 'dto', 'katiwatiwala', 'april', 'bank', 'transfer', 'malaman', 'pera', 'ilang', 'beses', 'tumawag', 'hotline', 'paulit', 'sinasabi', 'ngaung', 'araw', 'nangako', 'tatawag', 'supervisor', 'tumawag', 'tumawag', 'ms', 'jen', 'id', 'nangako', 'tatawag', 'supervisor', 'ngaun', 'tumawag', 'tanga', 'agent', 'nakausap', 'pinag', 'antay', 'itatransfer', 'nya', 'tawag', 'supervisor', 'oras', 'mahigit', 'aantay', 'wala', 'sumagot', 'naawa', 'alam', 'kelangan', 'tao', 'perang', 'pinagkatiwala', 'inyo', 'sitwasyong', 'dinadanas', 'ngaun']",Transaction Related
+2020-05-20 16:53:24,"['great', 'started', 'online', 'shopping', 'great', 'specially', 'bow', 'purchase', 'store', 'suggestion', 'extend', 'validity', 'generated', 'barcode', 'mins', 'short', 'distance', 'house', 'nearest', 'store', 'mins', 'drive', 'sometimes', 'offline', 'chance', 'use', 'generated', 'code', 'anymore', 'make', 'validity', 'barcode', 'hrs']",Convenience
+2020-05-23 05:39:05,"['frustrating', 'password', 'recovery', 'forgot', 'password', 'assistance', 'received', 'got', 'email', 'several', 'attempts', 'says', 'delays', 'response', 'messages', 'due', 'strict', 'government', 'measures', 'lockdown', 'creating', 'another', 'account', 'recovery', 'email', 'frustrating', 'since', 'mobile', 'always', 'state', 'email', 'address', 'phone', 'number', 'invalid', 'wonder', 'since', 'received', 'email', 'recovery', 'email', 'address', 'confirming', 'subscriptions', 'newsletter', 'use', 'customer', 'support', 'chat', 'frustrating', 'chat', 'automated', 'response', 'happen', 'create', 'account', 'large', 'amount', 'transactions', 'forgot', 'password']",Transaction Related
+2020-05-23 11:30:42,"['convenient', 'need', 'fall', 'longline', 'payment', 'center', 'easy', 'scan', 'supported', 'merchant', 'convenient', 'loading', 'prepaid', 'easy', 'use']",Ease of Use
+2020-05-23 13:09:00,"['load', 'problem', 'everytime', 'took', 'minute', 'sending', 'regular', 'load', 'pop', 'message', 'says', 'took', 'longetc', 'try', 'retry', 'load', 'error', 'transaction', 'carried', 'ending', 'become', 'double', 'sent', 'load', 'one', 'number', 'problem', 'always', 'encounter', 'us', 'correction', 'bug']",Ease of Use
+2020-05-28 01:54:35,"['life', 'saver', 'life', 'saver', 'quarantine', 'period', 'use', 'pay', 'bills', 'earned', 'cashback', 'send_money', 'smes', 'instapay', 'relatives', 'province', 'smart', 'padala', 'years', 'encountered', 'major', 'issue']",Ease of Use
+2020-05-28 21:41:05,"['fix', 'soon', 'possible', 'good', 'day', 'made', 'transfer', 'smart', 'money', 'amount', 'php', 'pm', 'transaction', 'reference', 'id', 'fff', 'aa', 'money', 'taken', 'never', 'received', 'text', 'message', 'confirmation', 'went', 'claim', 'money', 'smart', 'money', 'transaction', 'exist', 'fix', 'soon', 'possible', 'mia', 'relampagos']",Transaction Related
+2020-05-29 04:02:18,"['great', 'really', 'helpful', 'pay', 'online', 'feel', 'credit', 'card', 'directly']",Ease of Use
+2020-05-29 07:10:20,"['convenient', 'want', 'go', 'cashless', 'easy', 'convenient', 'use']",Ease of Use
+2020-06-01 12:36:32,"['bills_payment', 'cashback', 'one', 'thing', 'nagugustuhan', 'meron', 'silang', 'cashback', 'every', 'bills', 'babayaran', 'depende', 'promo', 'date', 'wala', 'ginagamit', 'far', 'iwala', 'service']",Ease of Use
+2020-06-07 00:28:00,"['great', 'ecash', 'think', 'good', 'used', 'visa', 'card', 'purchase', 'software', 'online', 'worked', 'used', 'online', 'shopping', 'works', 'seamless', 'banking', 'moving', 'money', 'convenient', 'hope', 'future', 'charge', 'use', 'store', 'account']",Convenience
+2020-06-12 13:39:44,"['good', 'worst', 'customer', 'care', 'contacting', 'customer', 'care', 'due', 'issue', 'credit', 'card', 'cash', 'despite', 'number', 'follow', 'emails', 'every', 'day', 'sometimes', 'twice', 'day', 'one', 'contacted', 'back', 'resolve', 'issue', 'want', 'us', 'us', 'concerns', 'better', 'close', 'regret', 'recommending', 'number', 'friends', 'relatives', 'ignoring', 'email', 'messages', 'days', 'acceptable']",Transaction Related
+2020-06-28 12:51:37,"['create', 'account', 'problem']",Transaction Related
+2020-06-29 11:21:20,"['barcode', 'payment', 'method', 'hello', 'dev', 'could', 'add', 'barcode', 'mode', 'payment', 'improve', 'service', 'us', 'make', 'less', 'work', 'us', 'pay', 'scan', 'barcode', 'payment', 'much', 'convenient', 'take', 'care']",Ease of Use
+2020-07-08 06:38:16,"['great', 'drivers', 'license', 'upgrading', 'account', 'piece', 'cake']",Convenience
+2020-07-14 12:06:42,"['meralco', 'barcode', 'scanner', 'working', 'one', 'best', 'ewallets', 'clean', 'convenient', 'barcode', 'scanner', 'meralco', 'working', 'properly', 'fix', 'meralcos', 'reference', 'number', 'long', 'type', 'prone', 'human', 'error', 'thanks']",Ease of Use
+2020-07-16 06:51:35,"['little', 'disappointed', 'refer', 'friends', 'start', 'pay_maya', 'upgraded', 'account', 'already', 'receive', 'free']",Transaction Related
+2020-07-22 14:42:46,"['great', 'pretty', 'useful', 'one', 'problem', 'hard', 'contact', 'support', 'time', 'get', 'replies', 'email', 'wait', 'one', 'week', 'reply']",Customer Support Related
+2020-08-05 03:57:33,"['easy', 'peasy', 'covenient', 'use', 'smart', 'mobile', 'number', 'transfer', 'bank', 'easy', 'cash', 'grabpay']",Ease of Use
+2020-08-07 15:40:55,"['generous', 'convenient', 'generous', 'regards', 'promo', 'specifically', 'balik_bayad', 'deals', 'keep', 'promos', 'thanks']",Convenience
+2020-08-13 13:20:09,"['unauthorized', 'payments', 'used', 'money', 'things', 'contact', 'pay_maya', 'personnel', 'apps', 'officials', 'reply', 'cents', 'money', 'issue', 'whether', 'big', 'small', 'amount', 'take', 'seriously', 'hope', 'admin', 'take', 'action', 'kind', 'fraudhack', 'much', 'possible', 'really', 'find', 'useful', 'turns']",Ease of Use
+2020-08-15 01:14:19,"['paying_bills', 'paying_bills', 'easy', 'billes', 'ate', 'gone', 'globe', 'left', 'happened', 'billers', 'meralco', 'converge']",Ease of Use
+2020-08-17 07:25:08,"['reliablw', 'sense', 'urgency', 'need', 'transact', 'use', 'payments', 'processed', 'next', 'day', 'hurry', 'stay', 'away', 'choose', 'applications']",Convenience
+2020-08-18 09:06:47,"['financial', 'one', 'perfect', 'paying_bills', 'online', 'wallet', 'cashless', 'finest']",Ease of Use
+2020-08-19 16:53:15,"['easy', 'use', 'fact', 'works', 'looks', 'clean', 'simple', 'easy', 'use']",Ease of Use
+2020-08-28 05:36:13,"['improved', 'throughout', 'years', 'great', 'design', 'improved', 'years', 'maintains', 'clean', 'design', 'cute', 'maya', 'bird']",Ease of Use
+2020-08-28 05:58:20,"['cashbacks', 'convenient', 'daming', 'cashbacks', 'secured', 'user', 'friendly']",Ease of Use
+2020-08-28 06:02:07,"['best', 'financial', 'ph', 'best', 'financial', 'ph', 'lot', 'apf', 'money', 'opnions', 'integrated', 'biggest', 'banks', 'ph', 'lot', 'perks', 'promos', 'really', 'payment', 'ecosystem', 'promoting', 'ecosystem', 'payment', 'solution']",Ease of Use
+2020-08-30 05:06:28,"['great', 'pandemic', 'helps', 'pay', 'bills', 'online_transactions', 'send_money', 'family', 'get', 'data', 'subscribe', 'different', 'services', 'need', 'buy', 'something', 'convenience', 'stores', 'pay', 'qr', 'extremely', 'helpful', 'pandemic', 'need', 'avoid', 'physical', 'contact', 'others', 'much', 'possible']",Ease of Use
+2020-09-05 01:00:24,"['refund', 'money', 'trying', 'reach', 'support', 'avail', 'paid', 'something', 'rejected', 'deducted', 'balance', 'money', 'floating', 'somewhere', 'tried', 'emailing', 'messaging', 'support', 'feedbacks']",Transaction Related
+2020-09-12 04:46:23,"['card', 'expired', 'renew', 'soon', 'expire', 'expired', 'virtual', 'card']",Ease of Use
+2020-09-16 05:39:53,"['unresponsive', 'customer', 'care', 'disappointing', 'lost', 'money']",Customer Support Related
+2020-10-01 18:27:11,"['oof', 'crash', 'lol', 'ugrade']",Ease of Use
+2020-10-03 19:09:42,"['great', 'user', 'years', 'years', 'since', 'launched', 'problem']",Ease of Use
+2020-10-27 03:40:17,"['convenience', 'fee', 'deduct', 'convenience', 'fee', 'return']",Transaction Related
+2020-10-28 08:48:40,"['poor', 'ui', 'outdated', 'user', 'interface', 'list', 'contacts', 'looks', 'datamined', 'careful']",Ease of Use
+2020-10-30 08:24:25,"['suggestion', 'years', 'time', 'goes', 'progress', 'making', 'really', 'huge', 'helpful', 'hope', 'able', 'add', 'feature', 'shows', 'summary', 'amount', 'user', 'cash', 'month', 'know', 'right', 'away', 'much', 'top', 'since', 'limit', 'per', 'month', 'hope', 'suggestion', 'reacher', 'developer', 'power', 'team']",Ease of Use
+2020-11-04 08:19:28,"['best', 'love']",Convenience
+2020-11-07 11:56:40,"['apl', 'de', 'tnx', 'team', 'wonderful']",Customer Support Related
+2020-11-08 03:32:03,"['easy', 'buy', 'load', 'convenient']",Ease of Use
+2020-11-08 08:55:41,"['service', 'good']",Ease of Use
+2020-11-08 17:17:22,"['ilove', 'ilove', 'life', 'begins', 'easy']",Ease of Use
+2020-11-09 01:57:29,"['easy', 'breezy', 'processing', 'love', 'suggestion', 'add', 'bank', 'partners']",Ease of Use
+2020-11-09 02:13:05,"['load', 'smart', 'lte', 'super', 'convenient', 'plus', 'get', 'cashback', 'awesome']",Ease of Use
+2020-11-10 02:41:56,"['great', 'updates', 'love', 'look', 'improved', 'interface', 'got', 'chance', 'call', 'recently', 'wow', 'fast', 'efficient']",Ease of Use
+2020-11-10 05:46:04,"['ok', 'thumbs']",Ease of Use
+2020-11-10 07:01:33,"['easy', 'pay', 'convenient', 'long', 'amount', 'wallet', 'easily', 'scan', 'pay', 'bill', 'gas', 'station', 'aside', 'get', 'rebate']",Convenience
+2020-11-10 09:05:37,"['perfect', 'bonuses', 'incentives', 'love']",Ease of Use
+2020-11-10 09:54:03,"['best', 'wayyyy', 'better']",Ease of Use
+2020-11-10 10:00:18,"['eload', 'pay_maya', 'loading', 'interface', 'network', 'great', 'experience', 'customers', 'additional', 'charges']",Ease of Use
+2020-11-10 14:16:29,"['love', 'really', 'love', 'since', 'started', 'back', 'starting', 'feel', 'bad', 'due', 'charges', 'fees', 'thought', 'helped', 'pandemic', 'started', 'lately', 'starting', 'reduce', 'sales', 'started', 'additional', 'charges', 'convenience', 'fees', 'adding', 'money', 'hope', 'understand', 'needs', 'complaints', 'small', 'business', 'category']",Customer Support Related
+2020-11-11 00:52:27,"['useful', 'convenient', 'find', 'bills', 'pay', 'shop', 'feature', 'useful', 'fall', 'line', 'pay', 'bills', 'plus', 'sending', 'money', 'family', 'friends', 'easy', 'need', 'go', 'bank', 'transfer', 'money', 'really', 'love', 'convenient']",Ease of Use
+2020-11-11 02:46:46,"['rating', 'easy', 'use', 'plus', 'cash', 'back']",Ease of Use
+2020-11-11 03:34:10,"['professional', 'working', 'home', 'super', 'convenient', 'helped', 'lot', 'senior', 'citizen', 'paying_bills', 'clients', 'dues', 'govt', 'without', 'going', 'home']",Ease of Use
+2020-11-11 04:16:56,"['good', 'easy', 'use']",Ease of Use
+2020-11-11 05:23:31,"['excellent', 'convenient', 'affordable']",Convenience
+2020-11-11 06:15:03,"['thanks', 'wonderful', 'partner', 'happen', 'entire', 'life', 'god', 'bless']",Ease of Use
+2020-11-11 07:50:29,"['convenient', 'easy', 'use', 'great', 'one', 'need', 'easy', 'payments', 'money', 'transfers']",Convenience
+2020-11-11 11:54:20,"['better', 'far', 'better', 'terms', 'eloading', 'system', 'disregard', 'already', 'system', 'used', 'causes', 'problems', 'loading', 'offers', 'benefits', 'promos', 'thanks', 'much', 'great', 'idea']",Ease of Use
+2020-11-11 12:04:45,"['love', 'balik_bayad', 'promo']",Convenience
+2020-11-11 17:20:47,"['load', 'pumasok', 'load', 'kanina', 'pumasok', 'nama', 'globe']",Ease of Use
+2020-11-12 01:40:16,"['expensive', 'charge', 'useful', 'low', 'charge', 'fee', 'transaction', 'fee', 'expensive']",Transaction Related
+2020-11-12 02:44:36,"['nice', 'bills_payment', 'loading', 'pay', 'cash']",Ease of Use
+2020-11-12 09:31:31,"['super', 'useful']",Ease of Use
+2020-11-12 11:44:16,"['reliable', 'secure', 'fast', 'love', 'reliable', 'secure', 'credit', 'transactions', 'go', 'cashless', 'timely', 'hassle_free', 'busy', 'working', 'mothers', 'plus', 'easy', 'reload', 'since', 'available', 'everywhere']",Ease of Use
+2020-11-13 04:35:24,"['ease', 'payment', 'anything', 'anytime', 'quite', 'sometime', 'find', 'really', 'really', 'easy', 'convenient', 'times', 'happy', 'customer']",Ease of Use
+2020-11-13 06:08:27,"['hi', 'easy', 'use', 'think', 'secured']",Convenience
+2020-11-13 06:23:01,"['transaction', 'easy', 'process', 'complicated', 'compare', 'services']",Ease of Use
+2020-11-13 09:21:09,"['awesome', 'years', 'without', 'issues', 'unlike', 'better']",Ease of Use
+2020-11-13 12:32:40,"['nice', 'hassle_free', 'convenient', 'use']",Ease of Use
+2020-11-14 02:33:19,"['good', 'nice', 'application', 'convienient', 'useful']",Ease of Use
+2020-11-14 05:02:46,['thanks'],Ease of Use
+2020-11-14 05:03:06,"['great', 'really', 'great', 'convenient', 'use', 'safe']",Ease of Use
+2020-11-14 05:36:38,"['yey', 'always']",Ease of Use
+2020-11-14 07:34:46,"['instant', 'cashless']",Convenience
+2020-11-14 11:03:08,"['money', 'transfer', 'thanks', 'easily', 'transfer', 'money', 'local', 'bank']",Transaction Related
+2020-11-14 23:42:41,"['money', 'padala', 'tagaytay', 'city', 'easy', 'fast', 'transaction', 'ty']",Ease of Use
+2020-11-15 05:29:35,"['wow', 'easy', 'transac']",Ease of Use
+2020-11-15 07:27:11,"['easy', 'use', 'convenient', 'use', 'made', 'bills_payment', 'easier', 'paying', 'ordering', 'online', 'keep', 'offer', 'platform', 'smes', 'magtataho', 'jeepney', 'drivers']",Ease of Use
+2020-11-15 07:44:30,"['must', 'fast', 'reliable']",Ease of Use
+2020-11-15 10:07:43,"['convenient', 'convenient', 'us', 'paying_bills', 'need', 'go', 'bayad', 'center']",Ease of Use
+2020-11-15 13:22:41,"['review', 'fast', 'convenient']",Ease of Use
+2020-11-15 23:35:16,"['mr', 'ruben', 'super', 'helpful', 'convenient', 'many', 'link', 'dheaper']",Convenience
+2020-11-16 02:30:27,"['extremely', 'satisfied', 'really', 'convinient', 'free', 'service', 'charge']",Ease of Use
+2020-11-16 02:46:36,"['convenient', 'hasslefree', 'fast', 'transaction', 'hasslefree']",Ease of Use
+2020-11-16 03:56:20,"['lifesaver', 'truly', 'lifesaver']",Ease of Use
+2020-11-16 11:36:55,"['good', 'easy', 'use', 'rewards', 'promo', 'great', 'keep']",Ease of Use
+2020-11-16 23:03:30,"['gef', 'pardilla', 'fast', 'safe', 'convenient', 'best', 'way', 'pay']",Convenience
+2020-11-17 19:09:26,"['good', 'good']",Ease of Use
+2020-11-18 05:59:54,"['awesome', 'apps', 'convenient', 'easy', 'use', 'great', 'features', 'pay', 'bills', 'one', 'tap', 'hassle_free', 'time', 'always']",Convenience
+2020-11-18 06:04:08,['thanks'],Ease of Use
+2020-11-18 11:51:31,"['understand', 'additional', 'saddened', 'every', 'penny', 'counts', 'someone', 'keep', 'ends', 'meet']",Customer Support Related
+2020-11-19 11:56:57,"['bills', 'payments', 'convenience', 'pay', 'bills', 'sss', 'payment', 'voluntary', 'member', 'contribution', 'pay', 'apps']",Convenience
+2020-11-19 16:38:37,"['helpul', 'apps', 'really', 'love', 'apps', 'gave', 'beyond', 'words', 'thanks', 'developer']",Ease of Use
+2020-11-20 06:37:03,"['love', 'javy', 'olives', 'hes', 'genius', 'javyjavy', 'genius']",Ease of Use
+2020-11-20 08:16:33,"['hahaha', 'ganda']",Ease of Use
+2020-11-20 15:18:16,"['reaction', 'great', 'account', 'cashless', 'transaction']",Ease of Use
+2020-11-21 00:02:07,"['good', 'company', 'sobrang', 'combinient', 'plus', 'wala', 'charge', 'hidden', 'charges', 'maa', 'update', 'nangyayare']",Ease of Use
+2020-11-21 00:24:36,"['online', 'load', 'awesome', 'experience', 'great', 'convinient']",Ease of Use
+2020-11-21 14:03:05,"['really', 'love', 'convenient', 'use', 'efficient']",Ease of Use
+2020-11-22 05:29:58,"['easiest', 'ewallet', 'use', 'love', 'continues', 'improve', 'accommodate', 'changing', 'times', 'pay', 'cashless', 'partner', 'merchants', 'easily']",Convenience
+2020-11-22 06:22:21,"['superfast', 'love', 'transaction', 'superfast']",Ease of Use
+2020-11-23 06:11:52,"['convenient', 'pay', 'bills', 'smart', 'bills']",Convenience
+2020-11-24 02:46:12,"['absolutely', 'great', 'love', 'pay', 'everything', 'accepts', 'easy', 'pay', 'easy', 'reload', 'request', 'increase', 'number', 'favorites', 'pay', 'many', 'things', 'monthly', 'appreciated', 'make', 'dozen', 'recurring', 'payments', 'easier']",Convenience
+2020-11-24 04:18:55,"['thanks', 'convenient', 'appslove']",Ease of Use
+2020-11-25 06:58:22,"['everything', 'everything', 'perfect', 'giving', 'us', 'cashless', 'use', 'daily', 'living', 'buying', 'load', 'process', 'bills_payment', 'convenient', 'smart', 'padala', 'legit', 'thanks']",Ease of Use
+2020-11-26 03:10:35,"['convenient', 'better', 'load', 'use', 'multiple', 'way', 'charge', 'easytripthumbs']",Ease of Use
+2020-11-27 03:50:48,"['fast', 'smooth', 'transaction', 'easy', 'use', 'plush', 'get', 'cashback']",Ease of Use
+2020-11-28 06:26:13,"['fast', 'easy', 'use', 'great', 'payment', 'purchasing']",Ease of Use
+2020-11-29 10:19:55,"['thumbs', 'worldwide', 'services']",Ease of Use
+2020-12-02 12:15:33,"['upgrade', 'account', 'many', 'months', 'upgraded', 'account', 'mawala', 'magaantay', 'ilang', 'buwan', 'samat']",Convenience
+2020-12-02 16:26:23,"['rewards', 'pl']",Ease of Use
+2020-12-03 17:08:04,"['error', 'registration', 'could', 'create', 'account', 'several', 'attempts', 'keeps', 'telling', 'slow', 'internet', 'connection', 'although', 'pretty', 'sure', 'internet', 'speed', 'fast', 'tried', 'following', 'customer_service', 'advices', 'nothing', 'worked', 'could', 'proceed']",Ease of Use
+2020-12-06 05:15:34,"['log', 'error', 'keeps', 'asking', 'phone', 'number', 'fact', 'access', 'different', 'device', 'numberbut', 'use', 'mobile', 'phone', 'log', 'error', 'appears', 'ask', 'number']",Ease of Use
+2020-12-06 11:55:37,"['nice', 'update', 'nice', 'pwd', 'copypaste', 'bills_payment']",Ease of Use
+2020-12-07 02:58:04,"['simple', 'easy', 'use', 'love', 'easy', 'use', 'use', 'pay', 'bills', 'send_money', 'bank', 'transfer', 'online', 'orders', 'buy', 'load', 'helpers', 'send_money', 'loved', 'ones', 'province', 'everything', 'need', 'manage', 'money', 'plus', 'cashbacks']",Convenience
+2020-12-09 03:46:09,"['nice', 'convenient']",Ease of Use
+2020-12-09 07:02:49,"['nice', 'fast']",Ease of Use
+2020-12-10 10:11:28,"['enjoying', 'far', 'increase', 'monthly', 'limits', 'super', 'fast', 'transaction', 'time', 'withdrawal', 'overseas', 'without', 'issues']",Ease of Use
+2020-12-10 11:27:53,"['ilove', 'love']",Ease of Use
+2020-12-12 06:03:33,"['loving', 'really', 'aside', 'intuitiveness', 'greatly', 'helps', 'finance', 'management', 'plus', 'cash', 'backs', 'almost', 'every', 'transaction', 'promos']",Ease of Use
+2020-12-13 21:19:28,"['useful', 'exciting', 'use', 'happy', 'known', 'useful', 'paying', 'online_transactions', 'plus', 'money', 'returns', 'received', 'transactions', 'exciting']",Ease of Use
+2020-12-14 12:32:52,"['fast', 'hassle_free', 'highly', 'recommended']",Ease of Use
+2020-12-15 00:00:41,"['credit', 'hope', 'credit', 'function', 'gcredit']",Customer Support Related
+2020-12-16 01:20:29,"['easy', 'payment', 'payment', 'easy', 'buying', 'load', 'send', 'others', 'hasslefree', 'shopping', 'bills_payment']",Ease of Use
+2020-12-16 14:32:13,"['useful', 'go', 'upgrade', 'status']",Ease of Use
+2020-12-18 05:55:57,"['samaximo', 'good', 'satisfied']",Ease of Use
+2020-12-19 03:00:37,"['easy', 'use', 'convenient', 'low', 'cost', 'deduction', 'fees', 'generous', 'rebate', 'users']",Ease of Use
+2020-12-19 13:31:59,"['convenience', 'easy', 'cashin', 'bpi', 'online', 'account', 'almost', 'bills', 'settled', 'definitely', 'try', 'beep', 'qr', 'need', 'travel', 'around', 'bgc', 'keep', 'great', 'features', 'hopefully', 'live', 'chat', 'feature', 'soon', 'easier', 'fellow', 'inquiries']",Convenience
+2020-12-20 16:10:58,"['real', 'time', 'convenient', 'way', 'transferring', 'cash', 'thumps']",Convenience
+2020-12-22 03:38:05,"['review', 'easy', 'easy', 'access', 'powers']",Ease of Use
+2020-12-22 08:18:51,"['kfc', 'easy', 'use', 'convenient']",Ease of Use
+2020-12-22 09:34:57,"['made', 'bank', 'transfer', 'mandatory', 'bills', 'payments', 'accessible']",Transaction Related
+2020-12-24 14:11:08,"['digits', 'pin', 'times', 'pf', 'covid', 'pandemic', 'required', 'wear', 'face', 'mask', 'due', 'face', 'id', 'limited', 'consequently', 'password', 'required', 'log', 'however', 'password', 'keyboard', 'typeconvenient', 'complexity', 'suggesting', 'add', 'feature', 'pin', 'code', 'face', 'id', 'accepted', 'face', 'mask']",Transaction Related
+2020-12-26 17:05:49,"['face', 'id', 'authentication', 'nice', 'one']",Ease of Use
+2020-12-27 08:25:03,"['transactions', 'love', 'covenient', 'need', 'go', 'home', 'balik_bayad', 'good', 'job']",Ease of Use
+2020-12-28 01:05:15,"['user', 'friendly', 'specilally', 'atm', 'machine', 'onsite']",Ease of Use
+2020-12-28 08:07:51,"['convience', 'best', 'easy', 'use']",Convenience
+2021-01-03 04:28:52,"['good', 'needs', 'improve', 'search']",Transaction Related
+2021-01-03 15:50:46,"['love', 'love', 'vouchers']",Ease of Use
+2021-01-04 01:26:01,"['really', 'helpful', 'mas', 'accessible', 'payments', 'wag', 'smart', 'use', 'network']",Ease of Use
+2021-01-04 10:30:16,"['awesome', 'convenient', 'easy', 'use']",Ease of Use
+2021-01-04 10:31:47,"['awesome', 'beryconvinient']",Ease of Use
+2021-01-10 13:51:09,"['joy', 'dela', 'cruz', 'bestest', 'paying', 'platform', 'far', 'user', 'friendly', 'mention', 'color', 'pleasing', 'eyes', 'keep', 'power']",Ease of Use
+2021-01-11 02:58:33,"['make', 'life', 'easier', 'enjoy', 'gone', 'days', 'manually', 'pay', 'bills', 'opening', 'chores', 'payment', 'give', 'jolt', 'happiness', 'paying_bills', 'alone', 'used', 'accept', 'payment', 'professional', 'services', 'keep']",Ease of Use
+2021-01-13 16:55:37,"['poor', 'customer_service', 'poor', 'handling', 'customer_service']",Convenience
+2021-01-14 10:01:41,"['great', 'satisfied', 'user', 'userfriendly', 'features', 'layout', 'plus', 'frequent', 'crashes', 'gamer', 'paymayas', 'gaming', 'option', 'steam']",Ease of Use
+2021-01-15 01:41:13,['great'],Ease of Use
+2021-01-16 07:45:26,"['excellent', 'service', 'good']",Ease of Use
+2021-01-22 02:03:09,"['reliable', 'far', 'goodin', 'almost', 'yrs', 'always', 'confident', 'transactions']",Ease of Use
+2021-01-23 17:37:25,"['create', 'account', 'first_time', 'downloading', 'unfortunately', 'keeps', 'giving', 'message', 'internet', 'connection', 'slow', 'otherwise', 'disappointed']",Ease of Use
+2021-01-26 03:05:16,"['good', 'service', 'thanks', 'hoping', 'receive', 'lot', 'cashbacks']",Ease of Use
+2021-01-29 01:32:11,"['thanks', 'much', 'satisfied', 'easy', 'convenient', 'use', 'made', 'easy', 'us', 'send_money', 'love', 'one', 'thanks']",Ease of Use
+2021-01-29 04:27:27,"['hoping', 'merchants', 'available']",Customer Support Related
+2021-01-30 05:57:23,"['friends', 'benefit', 'rebates']",Transaction Related
+2021-02-01 02:15:31,"['nice', 'digital', 'wallet', 'online_transactions', 'made', 'shopping', 'lot', 'easier', 'package', 'arrives', 'need', 'claim', 'need', 'pay', 'cash', 'withdraw', 'atm', 'another', 'hassle']",Ease of Use
+2021-02-01 05:53:10,"['stars', 'super', 'convenient', 'comes', 'sending', 'money', 'loved', 'ones', 'far', 'less', 'hassle', 'one', 'click']",Ease of Use
+2021-02-01 10:57:02,"['love', 'super', 'easy', 'use', 'convenient', 'since', 'withdraw', 'much', 'plus', 'love', 'cashbacks', 'promos', 'hehe', 'hoping', 'merchants', 'always', 'recommend', 'friends']",Ease of Use
+2021-02-02 09:13:12,"['amaziiing', 'know', 'save', 'time', 'something', 'take', 'opportunity', 'downloaded', 'helps', 'save', 'time', 'lot', 'financial', 'transactions', 'paying_bills', 'sending', 'money', 'banks', 'allocate', 'extra', 'time', 'hobby', 'plantito', 'seriously', 'amazing', 'encourage', 'try', 'well']",Ease of Use
+2021-02-03 07:29:08,"['good', 'useful', 'godbless']",Ease of Use
+2021-02-03 09:44:08,"['great', 'heavensent', 'us', 'longer', 'young', 'mobile', 'easily', 'allows', 'us', 'pay', 'bills', 'perform', 'transactions', 'online', 'thanks', 'made', 'happen']",Ease of Use
+2021-02-05 05:05:57,"['good', 'super', 'satisfied', 'since', 'day', 'one', 'love', 'everything', 'use', 'cashback', 'rewards', 'real', 'time', 'instantaneously', 'able', 'send_money', 'billers', 'people', 'know', 'need', 'stand', 'line', 'bank', 'bayad', 'center', 'get', 'things', 'done']",Transaction Related
+2021-02-05 06:29:14,"['good', 'service', 'collect', 'magic', 'gathering', 'cards', 'always', 'use', 'pay', 'cards', 'buy', 'online', 'convenient', 'use', 'every', 'payment', 'goes', 'without', 'delay', 'whatsoever', 'sellers', 'get', 'ship', 'new', 'cards', 'day', 'happy', 'see', 'collection', 'grow', 'eyes']",Ease of Use
+2021-02-06 09:34:25,"['galing', 'ah', 'ginalingan', 'ah', 'sobrang', 'hasslefree', 'nya', 'gamitin', 'never', 'nakaencounter', 'issue', 'anong', 'feature', 'gamitin', 'sobrang', 'love', 'scan', 'pay', 'hightech', 'nakakaaliw', 'gamitin', 'ginagamit', 'pangdonate', 'account', 'foundations', 'charities', 'fulfilling', 'really', 'encourage', 'everyone', 'download', 'try', 'one', 'useful', 'apps']",Convenience
+2021-02-08 03:01:44,"['smooth', 'convenient', 'making', 'convenient', 'money', 'transactions', 'online']",Convenience
+2021-02-08 03:27:45,"['superb', 'virtual', 'wallet', 'lmuch', 'better', 'virtual', 'wallet']",Ease of Use
+2021-02-08 03:29:56,"['system', 'notifications', 'hopefully', 'future', 'notifications', 'include', 'activity', 'transactions', 'marketing', 'content']",Ease of Use
+2021-02-09 04:24:17,"['great', 'proud', 'user', 'brag', 'useful', 'amidst', 'pandemic', 'sobrang', 'simple', 'ganda', 'icons', 'smooth', 'transactions', 'easily', 'pay', 'bills', 'gamit', 'sobrang', 'saya', 'online', 'window', 'shopping', 'since', 'many', 'things', 'choose', 'witty', 'developers', 'kudos']",Convenience
+2021-02-09 06:56:47,"['convenient', 'covid', 'time', 'pangyayari', 'pandemic', 'mahawaan', 'covid', 'transacted', 'money', 'nakuha', 'physically', 'want', 'happen', 'decided', 'choose', 'pave', 'way', 'cashless', 'lifestlye', 'maprotektahan', 'pamilya', 'pandemic', 'enough', 'convenient']",Convenience
+2021-02-10 01:50:18,"['rate', 'sobrang', 'hasslefree', 'loload', 'autosweep', 'easytrip', 'rfid', 'easy', 'use', 'well']",Convenience
+2021-02-10 04:16:23,"['satisfied', 'easy', 'amd', 'reliable']",Ease of Use
+2021-02-10 07:24:06,"['superb', 'convenient', 'since', 'problems', 'issues', 'happy', 'sort', 'finances', 'paying_bills', 'loading', 'prepaid', 'sim', 'bank', 'transfers', 'fast', 'easy', 'friendly', 'straight', 'point', 'user', 'experience']",Ease of Use
+2021-02-11 03:55:56,"['mahirap', 'huli', 'technology', 'pandemic', 'umaasa', 'reduce', 'close', 'contact', 'situations', 'makes', 'really', 'easy', 'transition', 'virtual', 'world', 'sobrang', 'dali', 'nya', 'gamitin', 'unlike', 'apps', 'sobrang', 'useful', 'simple', 'effective']",Convenience
+2021-02-11 10:47:20,"['best', 'need', 'paymayas', 'convenience', 'us', 'cashless', 'lifestyle', 'users', 'virtually', 'limitless', 'things', 'need', 'online_transactions', 'bill', 'payments', 'qr_code', 'scary', 'sure', 'reached', 'bottleneck', 'never', 'stop', 'upgrading', 'updating']",Convenience
+2021-02-11 11:12:51,"['convenient', 'pandemic', 'really', 'hits', 'hard', 'made', 'bearable', 'enough', 'continue', 'adapt', 'current', 'situation', 'fear', 'contamination', 'safely', 'go', 'outside', 'buy', 'needs', 'pay', 'qr_code', 'efficient', 'convenient', 'comes', 'online_transactions', 'reducing', 'troubles']",Ease of Use
+2021-02-11 13:53:24,"['best', 'ever', 'best', 'online', 'money', 'transactions', 'ever']",Convenience
+2021-02-11 14:23:52,"['recommended', 'always', 'use', 'paying_bills', 'cash', 'convenient']",Ease of Use
+2021-02-12 00:35:31,"['bills_payment', 'much', 'hope', 'icons', 'government', 'servives', 'payment', 'sss', 'othersthank']",Ease of Use
+2021-02-12 02:31:20,"['love', 'comfort', 'love', 'pay', 'mayas', 'service', 'comfort', 'gives', 'business', 'personal', 'needs', 'line', 'payments', 'purchases', 'hastle', 'need', 'go', 'bank', 'accurate', 'update', 'credits', 'debits', 'status', 'love', 'pay_maya']",Transaction Related
+2021-02-12 03:46:02,"['useful', 'last', 'time', 'emergency', 'need', 'contact', 'parents', 'saved', 'offer', 'lot', 'discounted', 'loads', 'pasok', 'pasok', 'gipit', 'budget', 'mabilis', 'makuha', 'load', 'legit', 'power']",Ease of Use
+2021-02-13 04:35:20,"['wow', 'masasabi', 'super', 'effective', 'online', 'business', 'need', 'lumabas', 'asa', 'loob', 'sagot', 'financial', 'transaction', 'pwede', 'magtrabaho', 'magpadala', 'pera', 'time']",Ease of Use
+2021-02-14 03:54:08,"['best', 'know', 'people', 'link', 'bank', 'accounts', 'want', 'problemo', 'add', 'money', 'ministop', 'super', 'convenient', 'wins', 'points', 'book']",Ease of Use
+2021-02-14 06:59:55,"['solid', 'maliit', 'sahod', 'approve', 'ways', 'makatipid', 'includes', 'biruin', 'zero', 'fees', 'instapay', 'amazing', 'keep', 'bills']",Ease of Use
+2021-02-15 02:17:05,"['zero', 'fees', 'instapay', 'totally', 'worth', 'praktikalan', 'labanan', 'love', 'love', 'daming', 'ways', 'makatipid', 'favorite', 'zero', 'fees', 'instapay', 'hello', 'zero', 'fees', 'hang', 'saya', 'saya']",Ease of Use
+2021-02-15 03:16:46,"['review', 'love', 'functions', 'team', 'grandparents', 'really', 'appreciate', 'easy', 'understand', 'despite', 'incapable', 'sometimes', 'comprehending', 'techie', 'compexities', 'never', 'ounce', 'regret', 'recommending', 'never', 'much']",Ease of Use
+2021-02-15 05:30:04,"['pasalamat', 'cheng', 'easy', 'af']",Ease of Use
+2021-02-15 05:37:01,"['review', 'buhay', 'diskarte', 'sobrang', 'pasasalamat', 'napadali', 'pagbabayad', 'bills', 'pang', 'fees', 'instapay', 'mabilis', 'nakatipid']",Ease of Use
+2021-02-16 04:00:09,"['feedback', 'paymayas', 'interface', 'really', 'looks', 'professional', 'ginamit', 'magugulat', 'madali', 'siyang', 'gamitin', 'recommended', 'colleague', 'first', 'hesitant', 'physical', 'transactions', 'nakikita', 'sobrang', 'sulit', 'pagdowload', 'narealize', 'super', 'safe', 'gamitin']",Convenience
+2021-02-16 04:34:28,"['one', 'thing', 'sure', 'really', 'great', 'namang', 'magaakala', 'make', 'life', 'easier', 'clicks', 'phone', 'recommended', 'people', 'loves', 'easy', 'transactions']",Ease of Use
+2021-02-16 06:23:12,"['good', 'job', 'mas', 'okay', 'dati', 'nakikita', 'pera', 'nararamdaman', 'bulsa', 'mas', 'reassuring', 'makakakita', 'salamat', 'apo', 'nadiscover', 'kailangang', 'lumabas', 'bumili', 'kakailanganin', 'online', 'shopping', 'settings', 'nababawasan', 'pagiging', 'old', 'school', 'kailangang', 'competent', 'larangan', 'technology', 'gamit']",Ease of Use
+2021-02-16 07:24:09,"['love', 'love', 'feel', 'attached', 'system', 'thoughtful', 'kind', 'hearted', 'user', 'others', 'responsible', 'way', 'notify', 'upcoming', 'events', 'promos', 'lots', 'fun', 'friendly']",Ease of Use
+2021-02-16 11:07:48,"['good', 'isipin', 'frontliner', 'mababawasan', 'risk', 'contamination', 'pamilya', 'pwede', 'mahawaan', 'maraming', 'salamat', 'cashless', 'lifestyle', 'service', 'provided', 'users', 'kailangang', 'matakot', 'close', 'contact', 'risks', 'qr_code', 'magbayad', 'bills', 'utilities', 'gamit', 'salamat', 'faster', 'better', 'service']",Ease of Use
+2021-02-17 09:03:34,['cool'],Ease of Use
+2021-02-17 09:43:01,"['amazing', 'since', 'started', 'stressfree', 'buhay', 'aspect', 'making', 'payments', 'need', 'experience', 'long', 'lines', 'matagal', 'paghihintay', 'napapakabilis', 'online', 'transaction', 'offers', 'totally', 'affordable', 'legit']",Ease of Use
+2021-02-17 17:25:24,"['loving', 'perks', 'get', 'every', 'time', 'use', 'thanks', 'love', 'perks', 'convenience', 'get', 'every', 'time', 'use', 'hope', 'get']",Customer Support Related
+2021-02-18 01:26:58,"['happy', 'user', 'happy', 'apps']",Ease of Use
+2021-02-18 04:04:02,"['must', 'financial', 'survival', 'really', 'fan', 'online_transactions', 'made', 'felt', 'safe', 'secure', 'whenever', 'transactions', 'online', 'much', 'easy', 'use', 'really', 'glad', 'able', 'part', 'growing', 'community', 'users', 'great']",Ease of Use
+2021-02-18 05:05:02,"['best', 'electronic', 'payment', 'used', 'many', 'years', 'must', 'say', 'convenient', 'reliable', 'trustworthy', 'great', 'customer_service', 'best']",Convenience
+2021-02-18 07:52:45,"['qr_code', 'promos', 'definitely', 'heaven', 'sent', 'voucher', 'user', 'really', 'makes', 'quarantine', 'life', 'easier', 'bearable', 'due', 'function', 'paymayas', 'qr', 'promos', 'really', 'blessing', 'qr', 'payment', 'course', 'useful', 'convenient', 'promos', 'vouchers', 'made', 'whole', 'lot', 'better']",Ease of Use
+2021-02-18 10:44:34,"['nithing', 'beats', 'convenient', 'great', 'deals']",Convenience
+2021-02-19 04:43:32,"['give', 'feedbacks', 'apps', 'one', 'different', 'napa', 'bigay', 'feedback', 'totoong', 'maganda', 'mabilis', 'service', 'secured', 'naipadala', 'pera']",Ease of Use
+2021-02-19 07:01:24,"['accessible', 'try', 'sending', 'money', 'banks', 'instapay', 'believe', 'got', 'instant', 'pesos', 'balik_bayad', 'voucher', 'keeps', 'promises', 'deliver', 'money', 'safely', 'quickly', 'provide', 'amazing', 'deals', 'one']",Convenience
+2021-02-20 09:12:19,"['classes', 'new', 'semester', 'started', 'since', 'need', 'new', 'things', 'decided', 'buy', 'stuff', 'mall', 'let', 'tell', 'pesos', 'every', 'peso', 'transaction', 'really', 'amazing', 'truly', 'never', 'fails', 'surprise', 'new', 'promos', 'every', 'month']",Ease of Use
+2021-02-21 05:20:14,"['superb', 'rebates', 'cashback', 'awesome']",Transaction Related
+2021-02-22 01:29:08,"['paymayasmart', 'fast', 'transactions']",Ease of Use
+2021-02-22 16:48:47,"['flawless', 'smooth', 'convenient', 'paymayas', 'online', 'transaction', 'flawless', 'smooth', 'convenient', 'way', 'comes', 'ewallet', 'application', 'although', 'ewallet', 'apps', 'provide', 'service', 'one', 'top', 'paymayas', 'fast', 'smooth', 'transactions', 'generous', 'vouchers', 'discounts']",Convenience
+2021-02-24 04:33:23,"['convenient', 'convenient', 'paying_bills']",Ease of Use
+2021-02-24 09:10:26,"['convenience', 'game', 'changer', 'helped', 'lot']",Ease of Use
+2021-02-25 03:50:25,"['convenient', 'helpful']",Ease of Use
+2021-02-27 06:33:54,"['useful', 'great']",Ease of Use
+2021-02-27 07:51:58,"['responsive', 'convenient', 'unlike', 'ewallet', 'apps', 'lags', 'unresponsive', 'best', 'feature', 'commend', 'security', 'command', 'secured', 'user', 'access', 'account', 'best', 'far']",Convenience
+2021-02-28 11:35:29,"['thanks', 'nice']",Ease of Use
+2021-03-01 04:25:16,"['love', 'excellent']",Convenience
+2021-03-01 06:02:49,"['superbb', 'need', 'bring', 'money', 'whenever', 'go', 'supermarkets', 'shops', 'already', 'qr_code', 'payment', 'method', 'super', 'convenient', 'side', 'since', 'need', 'scan', 'code', 'payment', 'fastest', 'safest', 'way', 'paying', 'something', 'time', 'pandemic']",Ease of Use
+2021-03-01 06:51:47,"['frankly', 'exceeds', 'expectation', 'sobrang', 'sulit', 'nitong', 'gamitin', 'every', 'time', 'pay', 'bill', 'online', 'directly', 'nagugulat', 'nalang', 'cashbacks', 'natatanggap', 'expecting', 'feature', 'make', 'sure', 'every', 'customer', 'feel', 'valued', 'get', 'satisfaction', 'dali', 'nitong', 'gamitin', 'super', 'secured', 'pera']",Transaction Related
+2021-03-01 15:03:39,"['serverfeedback', 'getting', 'tired', 'going', 'send_money', 'key', 'get', 'instant', 'access', 'money', 'open', 'way', 'send', 'amount', 'easily']",Convenience
+2021-03-02 01:19:55,[],Ease of Use
+2021-03-02 09:07:18,"['recommended', 'application', 'really', 'give', 'need', 'discounts', 'vouchers', 'highquality', 'services', 'easytouse', 'navigate', 'icons', 'everything', 'perfect', 'really', 'useful', 'everyone', 'recommend', 'friends', 'well']",Ease of Use
+2021-03-03 01:05:35,"['burat', 'think', 'software', 'open', 'people', 'use', 'complicated', 'bata', 'pwedeng', 'gumamit', 'supervision', 'magulang', 'tasked', 'children', 'simple', 'chores', 'kagaya', 'pagbayad', 'bill', 'online']",Convenience
+2021-03-03 03:35:03,"['ewallet', 'kadalasan', 'need', 'bayad', 'cashin', 'easily', 'cash', 'without', 'paying', 'single', 'cent', 'andami', 'pang', 'pagpipilian', 'pwede', 'cashin', 'tindahan', 'man', 'saang', 'convenient', 'stores']",Ease of Use
+2021-03-03 04:12:50,"['convenient', 'lovely', 'versatile', 'ewallet', 'virtually', 'anything', 'needing', 'mb', 'phone', 'storage', 'online_transactions', 'fast', 'flawless', 'well', 'vouchers', 'every', 'function', 'sobrang', 'convenient', 'sobrang', 'tipid']",Convenience
+2021-03-03 06:47:23,"['good', 'regarding', 'interface', 'wala', 'masyadong', 'reklamo', 'malfunction', 'partthe', 'called', 'qr_code', 'used', 'different', 'stores', 'kagaya', 'gas', 'stations', 'since', 'mahalaga', 'everyday', 'nagpapagas']",Ease of Use
+2021-03-03 07:43:47,"['convinient', 'apps', 'qr', 'payment', 'method', 'extremely', 'convenient', 'need', 'bring', 'along', 'money', 'order', 'buy', 'favorite', 'fast', 'foods', 'get', 'phone', 'pocket', 'use', 'qr', 'scanner', 'easily', 'pay', 'convenient']",Convenience
+2021-03-03 08:30:24,"['awesome', 'ewallet', 'known', 'utility', 'convenience', 'nothing', 'argue', 'application', 'everything', 'works', 'perfectly', 'fine', 'smooth', 'prepaid', 'loads', 'discounts', 'cashback', 'vouchers', 'well', 'something', 'enough']",Convenience
+2021-03-03 11:18:43,"['good', 'easy', 'quick', 'services', 'discovered', 'experience', 'really', 'first_time', 'user', 'could', 'simply', 'recommend', 'friend', 'papatakbo', 'business', 'pang', 'heavy', 'duty']",Ease of Use
+2021-03-03 15:23:01,"['good', 'need', 'buy', 'load', 'sarisari', 'stores', 'dati', 'already', 'provides', 'prepaid', 'loads', 'comfort', 'home', 'mabilis', 'proseso', 'discount']",Ease of Use
+2021-03-04 12:32:17,"['tirishiaaaaa', 'use', 'business', 'purposes', 'really', 'gives', 'lots', 'profit', 'discount', 'prepaid', 'loading', 'station', 'happy', 'customers', 'happy', 'nakakatipid', 'thanks']",Ease of Use
+2021-03-04 12:41:45,"['jon', 'sobrang', 'dali', 'send', 'pera', 'gamit', 'legit', 'napakabilis', 'transaction', 'bagay', 'bagay', 'nasa', 'emegerency', 'works', 'smoothly', 'nakakaranas', 'annoyance']",Ease of Use
+2021-03-05 03:38:08,"['lovely', 'one', 'efficient', 'tool', 'comes', 'transfering', 'funds', 'matagal', 'maganda', 'sense', 'mong', 'gawin', 'recommend', 'team']",Ease of Use
+2021-03-05 09:03:58,"['working', 'dual', 'jobs', 'nakatulong', 'daily', 'tasks', 'pumapasok', 'commissions', 'fara', 'wala', 'namang', 'technical', 'issues', 'nangyayari']",Ease of Use
+2021-03-06 12:21:06,"['lamzugat', 'kemehan']",Ease of Use
+2021-03-08 07:52:12,"['bills_payment', 'five', 'stars', 'enough', 'rate', 'digital', 'wallet', 'nagagamit', 'anong', 'araw', 'oras', 'mapa', 'grocery', 'man', 'mercury', 'lagi', 'nirerecommend', 'kakilala']",Customer Support Related
+2021-03-09 03:00:10,"['awesome', 'one', 'best', 'finance', 'philippine']",Convenience
+2021-03-09 07:40:46,"['superb', 'wallte', 'superb', 'ewallet', 'ever', 'tried', 'life', 'convenience', 'fee', 'low', 'cheap', 'prices', 'shops', 'affordable', 'always', 'use', 'buying', 'prepaid_load', 'endless', 'discounts', 'exclusive', 'promos']",Transaction Related
+2021-03-10 01:28:16,"['review', 'say', 'bye', 'bye', 'times', 'need', 'pumila', 'makapagpadala', 'pera', 'instant', 'pagsesend', 'pera', 'online', 'doable', 'wherever', 'whenever', 'want']",Convenience
+2021-03-10 03:43:59,"['useful', 'ages', 'usable', 'recognizable', 'layouts', 'basic', 'ui', 'madali', 'intindihin', 'sinisiguro', 'nakakatulong', 'users']",Ease of Use
+2021-03-10 05:15:05,"['great', 'thanks', 'napakadali', 'magpadala', 'pera', 'online', 'efficient', 'convenient', 'gamitin', 'vouchers', 'binibigay', 'mapapagamit', 'nitong', 'features', 'vouchers']",Convenience
+2021-03-11 08:48:14,"['joyful', 'mabilis', 'smooth', 'pagpapadala', 'pera', 'kapatid', 'gamit', 'nakukuha', 'agad', 'gamit', 'smart', 'padala', 'ever', 'nangailangan', 'anytime', 'nakakapag', 'send', 'sakanila']",Ease of Use
+2021-03-11 09:14:17,"['superb', 'service', 'secured', 'pinapadala', 'gamit', 'bawas', 'mabilis', 'narereceive', 'kamag', 'anak', 'nakasanayan', 'gamitin', 'papadala', 'pera']",Ease of Use
+2021-03-11 13:47:40,"['first_time', 'use', 'online', 'purchase', 'fast', 'smooth', 'process']",Convenience
+2021-03-12 02:00:57,"['goods', 'good', 'gooods']",Ease of Use
+2021-03-12 06:26:43,"['discount', 'purchase', 'first', 'never', 'believed', 'gives', 'discounts', 'purchases', 'tried', 'use', 'fell', 'love', 'easily', 'purchase', 'loads', 'without', 'going', 'storesvery', 'reccomendable']",Convenience
+2021-03-12 08:06:15,"['wellrecommended', 'mahilig', 'kumain', 'fastfood', 'time', 'luto', 'buti', 'nalang', 'need', 'mamroblema', 'cash', 'nakakapag', 'bayad', 'gamit', 'qr_code', 'hassle', 'mabilisang', 'pagbabayad']",Ease of Use
+2021-03-12 10:00:50,"['papasok', 'work', 'need', 'munang', 'magpa', 'gasolina', 'petron', 'luckily', 'meron', 'silang', 'qr', 'payment', 'madaling', 'araw', 'wala', 'pang', 'barya', 'madali', 'makakapag', 'bayad']",Ease of Use
+2021-03-13 05:05:26,"['salamat', 'many', 'companies', 'pwede', 'mong', 'magamit', 'cash', 'branches', 'worries', 'clients', 'need', 'magpadala', 'funds', 'times', 'need']",Ease of Use
+2021-03-13 05:31:35,"['helpful', 'see', 'thta', 'constantly', 'updating', 'safety', 'features', 'ensure', 'system', 'date', 'dangers', 'cyber', 'world', 'helpful', 'company', 'review', 'problems']",Ease of Use
+2021-03-13 14:50:44,"['cash', 'cash', 'bpi', 'account', 'linked', 'bpi', 'account', 'number', 'grabpay', 'smoother', 'cashing', 'without', 'logging', 'include', 'bdo', 'metrobank', 'ubp', 'banks', 'lazada', 'pay', 'cash', 'methods']",Convenience
+2021-03-14 05:50:44,"['convenience', 'use', 'hassle', 'thanks']",Ease of Use
+2021-03-15 03:00:56,"['excellent', 'qr', 'payment', 'feature', 'super', 'hassle_free', 'users', 'need', 'rely', 'cashless', 'lifestyle', 'scattered', 'andaming', 'option', 'choose', 'buy', 'sobrang', 'dali', 'set', 'code', 'easy', 'breezy', 'business', 'purposes']",Convenience
+2021-03-15 03:05:26,"['convenient', 'instead', 'relying', 'traditional', 'payment', 'method', 'find', 'quicker', 'better', 'use', 'apps', 'scan', 'pay', 'option', 'convenient', 'efficient', 'safer', 'use']",Ease of Use
+2021-03-15 03:38:33,"['super', 'helpful', 'believe', 'supremacy', 'super', 'daling', 'gamitin', 'nagagamit', 'maayos', 'matiwasay', 'features', 'sobrang', 'dali', 'navigate', 'kinakailangan', 'mong', 'features']",Convenience
+2021-03-16 04:22:37,"['satisfied', 'use', 'easy', 'transaction', 'families', 'taga', 'province', 'originally', 'use', 'getting', 'daily', 'needs', 'qr', 'payment', 'prepaid', 'loads', 'andaming', 'uses', 'convenient']",Ease of Use
+2021-03-18 19:55:07,"['crizedsoriano', 'phone', 'services', 'really', 'needed', 'load', 'beneficial', 'thing', 'luckily', 'company', 'offers', 'best', 'deals', 'discounts', 'save', 'lot', 'resources', 'time']",Ease of Use
+2021-03-19 04:20:28,"['ja', 'system', 'mechanism', 'really', 'lessens', 'processing', 'time', 'minimum', 'avoid', 'long', 'period', 'waiting', 'best', 'fastest', 'service', 'experienced']",Ease of Use
+2021-03-19 04:25:24,"['love', 'useful', 'great', 'use']",Ease of Use
+2021-03-20 00:45:23,"['useful', 'online_transactions', 'paying', 'monthly', 'bills', 'hassle', 'going', 'bayad', 'center', 'paymay', 'online_transactions', 'since', 'payment', 'method', 'hassle', 'counter', 'atm', 'time', 'rebates', 'cashback', 'promos', 'big', 'plus', 'good', 'user', 'experience', 'design']",Ease of Use
+2021-03-20 04:05:29,"['impressive', 'complete', 'tasks', 'online', 'always', 'phones', 'us', 'need', 'decent', 'internet', 'connection', 'pwede', 'magpaload', 'magamit', 'apps', 'need', 'go']",Ease of Use
+2021-03-20 10:15:23,"['dark', 'mode', 'add', 'dark', 'mode', 'feature', 'great']",Ease of Use
+2021-03-21 22:09:23,"['perfect', 'pandemic', 'dealing', 'right', 'takot', 'kang', 'magbayad', 'bills', 'outside', 'home', 'inside', 'online', 'transaction', 'easy', 'use']",Ease of Use
+2021-03-22 11:30:11,"['sss', 'utility', 'bills', 'choose', 'mobile', 'ewallet', 'week', 'payed', 'internet', 'connection', 'converge', 'totally', 'surprised', 'balikbayad', 'voucher', 'hahaha', 'looking', 'forward', 'vouchers']",Convenience
+2021-03-23 03:12:43,"['ugh', 'wow']",Ease of Use
+2021-03-23 03:20:32,"['thanks', 'thanks', 'fast', 'transaction', 'processing', 'bank', 'transfergod', 'bless', 'power']",Ease of Use
+2021-03-23 11:04:20,"['better', 'title']",Ease of Use
+2021-03-24 04:41:04,"['card', 'good', 'work', 'sooo', 'issue', 'card']",Ease of Use
+2021-03-24 13:45:09,"['reviews', 'kakayahan', 'nitong', 'track', 'transactions', 'essence', 'malalaman', 'nakawan', 'nagaganap', 'transaction', 'track', 'uncertain', 'users']",Ease of Use
+2021-03-24 13:51:10,"['paying', 'prc', 'renewal', 'transaction', 'easy', 'fast']",Ease of Use
+2021-03-24 15:08:21,"['ewallet', 'apps', 'user', 'friendliness', 'one', 'ewallet', 'apps', 'often', 'forget', 'fact', 'making', 'one', 'reasons', 'one', 'used', 'ewallet', 'application']",Convenience
+2021-03-26 02:23:18,"['bills_payment', 'modern', 'almost', 'necessities', 'bought', 'online', 'online', 'processing', 'great', 'way', 'ensure', 'safety', 'customers', 'periods']",Convenience
+2021-03-26 08:32:22,"['review', 'discuss', 'assure', 'operating', 'system', 'mechanism', 'everyone', 'use', 'without', 'spending', 'much', 'time', 'use', 'place', 'dining', 'orders', 'convenient']",Ease of Use
+2021-03-27 01:47:23,"['owner', 'manager', 'shalongs', 'purchasing', 'package', 'promo', 'sent', 'phone', 'transferable', 'data', 'buy', 'hope', 'apply', 'payment']",Ease of Use
+2021-03-29 05:48:32,"['excellent', 'part', 'system', 'one', 'way', 'adapt', 'todays', 'world', 'online', 'applications', 'serve', 'virtual', 'bank', 'account', 'excellent', 'place', 'begin', 'new', 'reality']",Convenience
+2021-04-02 06:13:56,"['la', 'talk', 'versatilie', 'load', 'purchasing', 'services', 'fact', 'provide', 'prepaid', 'loads', 'telco', 'users', 'sounds', 'awesome', 'highly', 'convenient', 'means', 'provide', 'prepaid_load', 'regardless', 'telco', 'definitely', 'available', 'loading', 'station', 'options']",Ease of Use
+2021-04-03 10:57:22,"['better', 'better']",Ease of Use
+2021-04-04 02:26:08,"['fan', 'online', 'banking', 'gaya', 'ganito', 'hawak', 'cash', 'places', 'cashless', 'natutulungan', 'neto', 'ginagamit', 'lagi', 'stores', 'thso', 'rahat', 'tumatanggap']",Convenience
+2021-04-04 11:09:15,"['poor', 'apps', 'ur', 'system', 'good', 'always', 'telling', 'looks', 'slow', 'internet', 'connection', 'haller', 'ok', 'full', 'signal', 'poyour', 'system', 'broken', 'connection', 'process', 'inyo', 'pro', 'ndi', 'mabuksan', 'acct']",Ease of Use
+2021-04-04 16:05:37,"['user', 'year', 'convient', 'easy', 'use', 'though', 'want', 'ask', 'remove', 'globe', 'services', 'could', 'purchase', 'globe', 'tm', 'load', 'anymore']",Ease of Use
+2021-04-04 20:15:35,"['give', 'back', 'money', 'weeks', 'since', 'submitted', 'complaint', 'heard', 'back', 'customer', 'support', 'team', 'despite', 'multiple', 'followups', 'account', 'balance', 'appears', 'negative', 'though', 'enough', 'money', 'pay', 'monthly', 'subscription', 'next', 'months', 'lot', 'budget', 'marketing', 'promotions', 'afford', 'decent', 'customer', 'support', 'team', 'chatbots', 'useless', 'email', 'support', 'team', 'unresponsive']",Transaction Related
+2021-04-04 22:34:27,"['user', 'friendly', 'nice']",Ease of Use
+2021-04-05 03:22:24,"['suggestion', 'simple', 'suggestion', 'savings', 'feature', 'separate', 'main', 'balance']",Convenience
+2021-04-05 04:04:58,"['carla', 'joyce', 'use', 'business', 'mabilis', 'narereceived', 'payment', 'customers', 'malayo', 'maganda', 'gamitin', 'business']",Ease of Use
+2021-04-05 04:54:18,"['best', 'everything', 'facilitate', 'transaction', 'easier', 'smoother', 'pay', 'bills', 'whenever', 'want', 'give', 'cashback', 'first_time', 'user', 'hope', 'encourage', 'gamitin']",Convenience
+2021-04-05 05:12:29,"['satisfied', 'masasabi', 'satisfied', 'nako', 'service', 'nitong', 'prepaid_load', 'ginagamit', 'kasing', 'pantawag', 'customer', 'pamilya', 'pwedeng', 'mawalan', 'load', 'maaasahan']",Customer Support Related
+2021-04-05 05:29:17,"['really', 'hesitant', 'use', 'changed', 'buy', 'meals', 'nearest', 'stores', 'accept', 'really', 'nice']",Ease of Use
+2021-04-05 10:12:43,"['sksskk', 'pleased', 'performance', 'services', 'first_time', 'use', 'pay', 'bills', 'suprisingly', 'got', 'cashbacks', 'say', 'generous']",Convenience
+2021-04-06 11:18:44,"['nabibigyan', 'prepaid_load', 'nakakakuha', 'balik_bayad', 'every', 'prepaid_load', 'purchase', 'money', 'efficient', 'mapapagastos', 'sobrang', 'sulit', 'cashbacks', 'sobrang', 'worth', 'every', 'gastos', 'rewarding', 'bibili', 'load']",Customer Support Related
+2021-04-06 12:42:09,"['legit', 'trusted', 'legit']",Ease of Use
+2021-04-06 13:32:42,"['bank', 'transfer', 'smooth', 'transaction', 'need', 'go', 'bank', 'esp', 'pandemic', 'conveniently', 'banking', 'night', 'much']",Transaction Related
+2021-04-07 01:05:31,"['pay_maya', 'excellent', 'easy', 'register']",Convenience
+2021-04-07 02:53:17,"['easy', 'use', 'safe', 'easy', 'friendly', 'use', 'security', 'good', 'safe', 'good', 'job', 'pay_maya']",Ease of Use
+2021-04-07 11:03:08,"['stars', 'includes', 'plenty', 'choices', 'include', 'cash', 'account', 'alternatives', 'accessible', 'interfacing', 'bank', 'account', 'aiming', 'corner', 'stores', 'way', 'prevalent', 'application']",Convenience
+2021-04-08 03:57:17,"['good', 'years', 'tested', 'waters', 'long', 'really', 'stagnant', 'ever', 'changing', 'ewallet', 'always', 'pursue', 'greatest', 'innovation', 'benefit', 'users', 'experienced', 'years', 'ago', 'million', 'miles', 'better', 'today']",Ease of Use
+2021-04-08 04:04:41,"['brt', 'brt', 'years', 'tested', 'waters', 'long', 'really', 'stagnant', 'ever', 'changing', 'ewallet', 'always', 'pursue', 'greatest', 'innovation', 'benefit', 'users', 'experienced', 'years', 'ago', 'million', 'miles', 'better', 'today']",Ease of Use
+2021-04-08 09:24:31,"['good', 'reasons', 'use', 'personal', 'ewallet', 'besides', 'convenience', 'efficiency', 'high', 'success', 'rate', 'understanding', 'users', 'always', 'show', 'signs', 'compassion', 'continuous', 'cashback', 'promos', 'make', 'month', 'memorable', 'fun', 'nakakagawa', 'way']",Convenience
+2021-04-08 13:07:29,"['ratatat', 'perfect', 'example', 'application', 'person', 'must', 'smartphones', 'amazing', 'functionality', 'capability', 'make', 'every', 'life', 'better', 'convenient', 'really', 'reduces', 'imbalance', 'daily', 'lives', 'tries', 'us', 'tasks', 'feature']",Ease of Use
+2021-04-08 14:03:23,"['good', 'everything', 'based', 'performance', 'clearly', 'win', 'large', 'margin', 'top', 'baby', 'features', 'focuses', 'entirely', 'benefit', 'users', 'first_time', 'users', 'trust', 'issues', 'comes', 'ewallet', 'applications']",Convenience
+2021-04-09 01:28:39,"['outstanding', 'predict', 'greater', 'things', 'come', 'updates', 'system', 'good', 'offers', 'possible', 'deals', 'us', 'use']",Ease of Use
+2021-04-09 08:22:53,"['includes', 'trade', 'finance', 'feature', 'allows', 'users', 'store', 'electronic', 'funds', 'different', 'profiles', 'disbursements', 'made', 'platform', 'several', 'networks']",Convenience
+2021-04-10 05:18:45,"['bank', 'fund', 'transfer', 'pay_maya', 'transfer', 'fast', 'reliablethanks']",Transaction Related
+2021-04-11 12:45:17,"['convenient', 'sobrang', 'convenient', 'pay', 'bills', 'electric', 'bills', 'cables', 'wifi', 'purchasing', 'needed', 'stuff', 'online', 'shops', 'apps', 'appear', 'transaction', 'fee', 'transactions', 'paying_bills', 'fees', 'go', 'back', 'account', 'cashbacks', 'overwhelmed', 'digital', 'wallets', 'eg', 'maayos', 'helpful', 'must', 'give', 'try', 'really', 'convenient', 'ass', 'aches', 'less', 'hustle']",Ease of Use
+2021-04-11 17:40:43,"['amazing', 'hello', 'first_time', 'reviewing', 'finance', 'one', 'word', 'say', 'awesomeee', 'able', 'get', 'discounts', 'money', 'back', 'qr', 'scantopay', 'feature', 'imagine', 'contactless', 'payments', 'plus', 'cashback', 'promo', 'super', 'sulit', 'worth', 'try']",Convenience
+2021-04-12 04:04:45,"['awesome', 'allows', 'pay', 'whenever', 'whatever', 'want', 'simple', 'use', 'deals', 'suitable', 'everyone', 'life', 'saver', 'consumable', 'oras']",Convenience
+2021-04-12 07:11:11,"['super', 'love', 'bills_payment', 'feature', 'ever', 'since', 'tried', 'never', 'worried', 'much', 'whenever', 'paying', 'utility', 'bills', 'fam', 'always', 'give', 'unique', 'cashback', 'promos', 'every', 'month', 'plus', 'thrifty', 'people', 'grateful', 'people', 'made', 'possible']",Ease of Use
+2021-04-13 01:52:51,"['tuwing', 'bumibili', 'bagong', 'phone', 'first', 'thing', 'download', 'applestore', 'convenient', 'use', 'times', 'pagbabayad', 'bills', 'pagsend', 'money', 'family']",Convenience
+2021-04-13 01:58:02,"['awesome', 'excellent']",Convenience
+2021-04-13 03:19:10,"['rating', 'application', 'taking', 'care', 'business', 'ewallet', 'application', 'clients', 'placed', 'predicament', 'pandemic', 'correct', 'currently', 'attempting', 'prevail']",Convenience
+2021-04-13 04:08:20,"['best', 'well', 'planned', 'pagdevelop', 'ever', 'since', 'tried', 'never', 'nakaexperience', 'technical', 'issues', 'available', 'services', 'excellent', 'ewallet']",Convenience
+2021-04-13 04:12:51,"['best', 'decision', 'downloading', 'best', 'far', 'used', 'savings', 'account', 'comfortable', 'easy', 'accesible', 'use', 'saving', 'intact', 'never', 'nabawasan', 'nalalaman']",Convenience
+2021-04-13 11:31:55,"['huuyyyy', 'katuwa', 'buwan', 'buwan', 'promos', 'cashback', 'malaki', 'transaction', 'fee', 'sulit', 'ginamit', 'papadala', 'transfer', 'pera']",Transaction Related
+2021-04-13 12:05:13,"['easy', 'clunky', 'begin', 'certainly', 'top', 'category', 'although', 'fact', 'jampacked', 'awesome', 'features', 'necessitate', 'lot', 'details']",Ease of Use
+2021-04-13 15:56:18,"['wow', 'allows', 'create', 'bank', 'account', 'quickly', 'efficiently', 'options', 'favorite', 'bank', 'hundred', 'clients']",Transaction Related
+2021-04-14 05:17:27,"['helpful', 'feature', 'complete', 'faith', 'official', 'vendor', 'software', 'allows', 'best', 'service', 'possible', 'concerned', 'financial', 'resources', 'whether', 'lost']",Ease of Use
+2021-04-14 06:19:49,"['love', 'fast', 'easy']",Ease of Use
+2021-04-14 09:51:53,"['feedback', 'good', 'whenever', 'pay', 'bills', 'sometimes', 'gives', 'cashbacks', 'every', 'users', 'enjoy', 'perks', 'pay', 'bills', 'system']",Convenience
+2021-04-16 05:35:26,"['awesome', 'knock', 'sense', 'download', 'forcing', 'want', 'missing', 'lot', 'advantages', 'gifts', 'provided', 'cashback', 'vouchers', 'discounts', 'everywhere', 'application', 'afford', 'miss', 'one']",Convenience
+2021-04-16 08:05:36,"['wow', 'could', 'really', 'seem', 'think', 'straight', 'use', 'ewallet', 'apps', 'complicated', 'changed', 'use', 'application', 'gave', 'turn', 'changed', 'perspective', 'ewallet', 'looks', 'pala', 'kailangang', 'komplikado', 'ewallet', 'lol']",Convenience
+2021-04-16 12:18:59,"['love', 'download', 'reward', 'lots', 'promos', 'cashback', 'vouchers', 'warm', 'welcome', 'first_time', 'users', 'keep', 'long', 'time', 'experience', 'awesome', 'features', 'gain', 'advantages', 'people', 'win', 'win', 'condition', 'tsaka', 'surely', 'mabubulok', 'phone', 'hahanap', 'ways', 'makatulong', 'sayo']",Ease of Use
+2021-04-16 13:19:03,"['appreciate', 'much', 'helpful', 'makes', 'life', 'easier', 'paying_bills']",Ease of Use
+2021-04-16 16:25:21,"['awesome', 'magbayad', 'balikbayad', 'voucher', 'thanks']",Ease of Use
+2021-04-18 07:27:56,"['convinient', 'minimal', 'charge', 'fee', 'well', 'thanks']",Transaction Related
+2021-04-19 02:59:48,"['glaiiccyyy', 'every', 'ewallet', 'respect', 'ability', 'useful', 'functionality', 'backing', 'promises', 'provide', 'convenient', 'high', 'tier', 'services', 'really', 'walk', 'talk', 'showcase', 'handiness', 'situations', 'need', 'pandemic', 'kinakagitnaan', 'natin']",Ease of Use
+2021-04-21 01:37:40,"['trades', 'incredibly', 'secure', 'security', 'one', 'worries', 'couple', 'gatherings', 'cutting', 'edge', 'trades', 'large', 'never', 'envisioned', 'confide', 'versatile', 'wallet', 'application', 'extent']",Convenience
+2021-04-22 02:17:06,"['use', 'monitor', 'online', 'purchases', 'analyzing', 'qr_code', 'scanned', 'billing', 'counter', 'much', 'practical', 'cash', 'check', 'take', 'much', 'longer']",Ease of Use
+2021-04-22 02:57:10,"['good', 'need', 'go', 'online', 'time', 'want', 'something', 'flu', 'epidemic', 'made', 'application', 'extremely', 'helpful', 'certain', 'users', 'device', 'provides', 'wide', 'variety', 'free', 'services']",Ease of Use
+2021-04-22 06:14:40,"['new', 'deals', 'sales', 'different', 'new', 'deals', 'sales', 'different', 'sides', 'job', 'particularly', 'enjoy', 'website', 'several', 'good', 'bargains', 'pass']",Convenience
+2021-04-23 00:23:34,"['add', 'games', 'epic', 'loading', 'section', 'huge', 'player', 'base', 'fortnite', 'rocket', 'league', 'add', 'gaming', 'pins', 'section', 'keep', 'good', 'work']",Ease of Use
+2021-04-24 03:31:52,"['one', 'best', 'philippines', 'one', 'best', 'philippines', 'rebate', 'best']",Convenience
+2021-04-24 09:05:51,"['super', 'great', 'application', 'ideal', 'people', 'truly', 'prefer', 'pay', 'cash', 'applications', 'qr', 'portion', 'incorporate', 'incredibly', 'useful', 'invaluable', 'difficult', 'use', 'incredible', 'ui']",Convenience
+2021-04-26 03:49:43,"['ge', 'similar', 'sectors', 'qr_code', 'operational', 'expenses', 'secured', 'add', 'made', 'experiences', 'consuming', 'gas', 'demands', 'blinding', 'smooth']",Ease of Use
+2021-04-26 03:54:58,"['pay_maya', 'always', 'enjoy', 'shopping', 'cutting', 'costs', 'challenging', 'qr', 'codes', 'must', 'scan', 'move', 'accomplished', 'short', 'amount', 'time']",Convenience
+2021-04-26 05:43:11,"['get', 'discussion', 'attempt', 'persuade', 'computer', 'secure', 'hands', 'company', 'exploit', 'offering', 'opportunity', 'part', 'competitive', 'values', 'different', 'creating', 'business', 'model']",Transaction Related
+2021-04-26 06:15:20,"['highly', 'recommended', 'feeling', 'buhay', 'sobrang', 'comfortable', 'andami', 'kasing', 'ways', 'matulungan', 'dami', 'features', 'available', 'pati', 'functionality', 'high', 'end', 'smooth', 'mong', 'transaction', 'safe', 'date', 'security']",Ease of Use
+2021-04-26 10:10:53,"['rate', 'first_time', 'use', 'hassle', 'easy', 'use', 'glad', 'tried']",Convenience
+2021-04-26 17:24:07,"['moment', 'enjoying', 'buying', 'load', 'problem', 'load', 'offerings', 'mura', 'easy', 'navigate', 'unli', 'cashback', 'feature', 'purchasing', 'load', 'sinong', 'gagamit', 'matutuwa', 'maayos', 'serbisyo']",Ease of Use
+2021-04-27 03:38:31,['convenient'],Ease of Use
+2021-04-27 12:21:47,"['good', 'able', 'speed', 'device', 'almost', 'completely', 'comes', 'softwares', 'functionality', 'operating', 'system', 'works', 'well', 'since', 'unemployment', 'condition', 'extremely', 'significant', 'include', 'advisory']",Ease of Use
+2021-04-27 12:52:21,"['want', 'commend', 'helps', 'slow', 'spread', 'virus', 'different', 'services', 'instead', 'going', 'pay', 'bills', 'actually', 'comfort', 'home', 'apps', 'bills_payment', 'feature', 'give', 'cashbacks', 'worth', 'pesos', 'unique', 'bills', 'pay']",Convenience
+2021-04-27 13:13:23,"['qr', 'payment', 'feature', 'perfect', 'access', 'point', 'people', 'want', 'transition', 'life', 'online', 'lifestyle', 'scan', 'pay', 'option', 'destroy', 'possibilities', 'getting', 'contaminated', 'disease', 'make', 'lives', 'simpler', 'apps', 'features']",Convenience
+2021-04-28 08:34:32,"['easy', 'use', 'akala', 'ibubuga', 'simple', 'designed', 'nya', 'wrong', 'maayos', 'organized', 'categories', 'information', 'wala', 'masyadong', 'maintenance', 'performance', 'smooth']",Convenience
+2021-04-30 22:24:08,"['great', 'features', 'secure', 'wallet', 'lots', 'freebies', 'promos', 'surely', 'enjoy', 'kudos', 'developer', 'keep']",Ease of Use
+2021-05-01 05:19:05,"['platform', 'great', 'deal', 'experience', 'since', 'often', 'requires', 'excellent', 'functionality', 'companies', 'implementations']",Ease of Use
+2021-05-02 11:27:58,"['say', 'pretty', 'good', 'got', 'hacked', 'money', 'placed']",Convenience
+2021-05-03 08:40:58,"['cdcd', 'vfds']",Ease of Use
+2021-05-04 00:59:02,"['good', 'together', 'online', 'banking', 'system', 'interface', 'offers', 'vast', 'number', 'option', 'users', 'pick', 'preferred', 'bank', 'ton', 'transfer', 'money', 'cheaper', 'option']",Ease of Use
+2021-05-04 04:07:21,"['rate', 'shocked', 'possible', 'move', 'funds', 'accounts', 'without', 'pay', 'hefty', 'sum', 'money', 'charges', 'really', 'expensive', 'pay', 'forward']",Convenience
+2021-05-05 03:01:32,"['review', 'outset', 'think', 'peculiar', 'helpful', 'application', 'repercussions', 'remuneration', 'case', 'point', 'discovered', 'exactly', 'ewallet', 'application', 'wake', 'utilizing', 'application', 'one', 'time', 'ought', 'viewed', 'elite']",Convenience
+2021-05-07 02:33:31,['tagal'],Ease of Use
+2021-05-07 03:54:13,"['bug', 'trying', 'log', 'account', 'application', 'shows', 'slow', 'internet', 'log', 'fix', 'strong', 'internet', 'log', 'thanks']",Ease of Use
+2021-05-07 07:42:09,"['good', 'creators', 'provided', 'effective', 'feature', 'allows', 'users', 'save', 'money', 'choose', 'special', 'bargains', 'online', 'benefit', 'excellent', 'customer_service', 'lowest', 'price', 'possible']",Convenience
+2021-05-07 12:12:49,"['ease', 'use', 'preferred', 'anybody', 'elses', 'payment', 'service']",Ease of Use
+2021-05-09 10:17:37,"['lodi', 'ganda']",Ease of Use
+2021-05-10 01:34:55,"['love', 'every', 'delivery', 'sweet', 'awesome', 'card', 'card', 'awesome', 'got', 'easy', 'pesos', 'worth', 'cashbacks', 'paying', 'delivery', 'card', 'realize', 'exclusive', 'promo', 'till', 'day']",Ease of Use
+2021-05-10 20:00:55,"['review', 'easily', 'divides', 'capabilities', 'utilizing', 'features', 'functionality', 'could', 'easily', 'offer', 'konting', 'konti', 'iisipin', 'bagay', 'importanteng', 'gawin', 'nababawasan', 'gawain', 'really', 'convenient']",Ease of Use
+2021-05-11 03:09:07,"['review', 'great', 'convenient', 'service', 'pay', 'bills']",Ease of Use
+2021-05-11 04:05:07,"['pay', 'fact', 'loading', 'station', 'amazing', 'enough', 'extended', 'cashback', 'every', 'prepaid_load', 'purchases', 'well', 'different', 'really', 'know', 'dealing', 'knows', 'fully', 'users', 'without', 'limits', 'restrictions', 'whatsoever']",Ease of Use
+2021-05-12 01:19:47,"['useful', 'pay', 'subscriptions', 'amazon', 'webtoons', 'bills', 'great', 'say', 'though', 'access', 'without', 'data', 'possible', 'anymore', 'tell', 'use', 'load', 'lol']",Convenience
+2021-05-12 07:16:41,"['bendashhur', 'looks', 'ordinary', 'try', 'uulitulitin', 'paggamit', 'naadik', 'sobra', 'pagdeposit', 'pera', 'bank', 'account', 'gawin', 'mapapabilis', 'kuskosbalungos', 'instant', 'transactions']",Transaction Related
+2021-05-12 16:14:28,"['great', 'willl', 'use', 'business', 'launching', 'since', 'proven', 'reliable', 'partner', 'financial', 'career']",Ease of Use
+2021-05-12 18:39:09,['exelent'],Ease of Use
+2021-05-13 05:10:59,"['nice', 'despite', 'fact', 'real', 'account', 'evaluation', 'process', 'takes', 'seconds', 'need', 'hurry', 'wait', 'ages', 'shift', 'funds', 'reply', 'program', 'goes', 'good']",Ease of Use
+2021-05-14 03:50:59,"['ratings', 'palagamit', 'mapigilan', 'umasa', 'ewallet', 'ganito', 'kagaling', 'pagbigay', 'online', 'service', 'halos', 'need', 'gawin', 'bahay', 'labas', 'nandito', 'nagkakaroon', 'problema', 'comes', 'pagpapadala', 'since', 'capable']",Ease of Use
+2021-05-14 07:09:33,"['great', 'mall', 'online', 'shopping', 'feature', 'sake', 'convenience', 'secure', 'money', 'user', 'contactless', 'transactions', 'comfortability', 'world', 'palm', 'hands', 'rely', 'mall', 'amazing', 'functionality']",Ease of Use
+2021-05-14 09:27:42,"['keep', 'want', 'extra', 'careful', 'handling', 'physical', 'money', 'perfect', 'way', 'transition', 'cashless', 'lifestyle', 'surely', 'pandemic', 'situation', 'never', 'threat', 'highly', 'covenient', 'features', 'purchases', 'longer', 'requires', 'close', 'contact', 'confirmation', 'transactions']",Convenience
+2021-05-18 03:01:41,"['good', 'cardholders', 'never', 'experienced', 'much', 'convenience', 'simply', 'tapping', 'cards', 'contactless', 'pos', 'terminal', 'napapabilis', 'payments', 'mas', 'nagiging', 'convenient', 'smoothness', 'transaction', 'nagagawa', 'tulong', 'napakadami', 'shops', 'pwedeng', 'pagbilhan', 'websites', 'sulit', 'sulit', 'paggamit', 'lagi']",Ease of Use
+2021-05-18 04:32:48,"['review', 'capable', 'providing', 'prepaid_load', 'use', 'give', 'load', 'love', 'ones', 'gifting', 'something', 'natural', 'breath', 'easy', 'show', 'care']",Ease of Use
+2021-05-19 00:51:55,"['good', 'software', 'fantastic', 'sent', 'balikbayad', 'look', 'notwithstanding', 'centres', 'ewallet', 'programme', 'precisely', 'first', 'ideal', 'chance', 'deal', 'bills', 'programme', 'elevates', 'dish']",Convenience
+2021-05-19 04:00:16,"['good', 'commend', 'best', 'ewallet', 'utilities', 'bill', 'payment', 'load', 'purchase', 'money', 'transfer', 'useful', 'simple', 'use', 'saves', 'time', 'spent', 'going', 'payment', 'centre', 'pay', 'bills', 'plus', 'cashback', 'promotion', 'really', 'appealing']",Convenience
+2021-05-20 03:36:37,"['product', 'simple', 'use', 'understand', 'best', 'part', 'uniting', 'everything', 'unlike', 'ewallet', 'applications', 'slow', 'latent', 'commend', 'applications', 'security', 'request', 'acquired', 'left', 'customer', 'approach', 'data', 'far', 'best', 'place', 'stay']",Convenience
+2021-05-20 15:43:49,"['great', 'application', 'mommy', 'conscious', 'budget', 'everytime', 'payment', 'purchase', 'computed', 'ensure', 'totallity', 'spending', 'favourably', 'used', 'ability', 'track', 'previous', 'present', 'transactions', 'helps', 'stay', 'tract', 'budget']",Convenience
+2021-05-21 01:38:36,"['feedback', 'convenient']",Ease of Use
+2021-05-21 10:44:31,"['good', 'ratings', 'good', 'working']",Ease of Use
+2021-05-24 00:41:25,"['gaming', 'pins', 'available', 'gaming', 'pins', 'available', 'store', 'going', 'give']",Customer Support Related
+2021-05-24 01:45:31,"['accesibility', 'features', 'application', 'spot', 'since', 'always', 'check', 'account', 'everytime', 'need', 'monitor', 'transaction', 'anytime']",Ease of Use
+2021-05-24 02:00:29,"['great', 'application', 'nalaman', 'pwedeng', 'pwede', 'pala', 'gamitin', 'groceries', 'naalisan', 'tinik', 'lalamunan', 'nung', 'nalaman', 'palang', 'gawin', 'ganung', 'bagay', 'mamomroblema', 'pagkain', 'within', 'week', 'pati', 'beauty', 'products', 'bilhin', 'makikita', 'looking', 'good', 'parin', 'busy', 'work']",Ease of Use
+2021-05-24 05:38:15,"['easy', 'application', 'looks', 'neat', 'quite', 'organized', 'every', 'feature', 'put', 'place', 'easily', 'see', 'navigationally', 'easy', 'mall', 'things', 'selling', 'categorized', 'skips', 'hassling', 'things', 'needed', 'find', 'item', 'want', 'buy']",Ease of Use
+2021-05-24 06:49:59,"['feedback', 'digital', 'economy', 'much', 'fun', 'must', 'handled', 'appropriately', 'process', 'purchase', 'providers', 'accept', 'variety', 'different', 'financial', 'instruments', 'ensuring', 'investment', 'safe', 'goals', 'fulfilled', 'efficiently']",Ease of Use
+2021-05-24 08:22:42,"['review', 'honestly', 'use', 'application', 'since', 'transparency', 'records', 'need', 'make', 'transactions', 'business', 'dealings']",Ease of Use
+2021-05-24 16:17:28,"['amazing', 'power', 'frequently', 'excess', 'cash', 'ewallet', 'use', 'offers', 'discount', 'codes', 'use', 'programs']",Ease of Use
+2021-05-25 04:47:47,"['nice', 'far', 'know', 'offers', 'free', 'charge', 'terms', 'availing', 'monetary', 'services', 'sending', 'receiving', 'funds', 'different', 'sources', 'banks']",Ease of Use
+2021-05-26 05:07:09,"['awesome', 'number', 'currency']",Ease of Use
+2021-05-26 05:47:15,"['easily', 'getting', 'balik_bayad', 'use', 'virtual', 'card', 'amazing', 'fun', 'shop', 'online', 'cashbacks', 'well', 'one', 'major', 'reasons', 'keep', 'sobrang', 'saya', 'nakaabang', 'benefits', 'users', 'everytime', 'use', 'card', 'features']",Convenience
+2021-05-26 13:45:10,"['hi', 'upgrade', 'account', 'postal', 'id', 'issued', 'january']",Transaction Related
+2021-05-27 01:50:16,"['nice', 'literally', 'life', 'hack', 'ewallet', 'application', 'features', 'hand', 'command', 'lots', 'things', 'features', 'limitless', 'potential', 'basically', 'work', 'divide', 'responsibility', 'half', 'order', 'make', 'focus', 'important', 'things', 'without', 'distraction', 'others', 'apps', 'ability', 'reduce', 'work', 'users']",Ease of Use
+2021-05-27 07:01:40,"['seemingly', 'unfathomable', 'length', 'time', 'scourge', 'basically', 'buying', 'load', 'retailers', 'found', 'couple', 'choices', 'program', 'really', 'offers', 'limitations', 'buying', 'load', 'set', 'aside', 'great', 'deal', 'cash', 'months', 'account', 'program', 'likewise', 'procured', 'another', 'kind', 'income', 'since', 'assembled', 'prepaid', 'loads', 'organization']",Ease of Use
+2021-05-28 07:22:49,"['excellent', 'applications', 'modified', 'trade', 'essentially', 'safer', 'simpler', 'follow', 'thus', 'judiciously', 'lessens', 'probability', 'terrorizing', 'online', 'crimes', 'current', 'applications', 'prosperity', 'exceptionally', 'extraordinary', 'centers', 'around', 'security', 'likewise', 'zeroing', 'demands', 'ensure', 'customers', 'finished', 'affirmation']",Convenience
+2021-05-28 11:28:24,"['bill', 'payments', 'pay', 'store', 'convinient', 'pay_maya', 'phone', 'need', 'carry', 'cash', 'usual', 'go', 'store', 'pay_maya']",Convenience
+2021-05-28 12:04:55,"['nice', 'really', 'loved', 'convenient', 'online', 'purchases', 'lot', 'covid', 'lockdown', 'started', 'groceries', 'online', 'pay', 'pay']",Ease of Use
+2021-05-29 11:51:47,"['review', 'first_time', 'laid', 'eyes', 'alam', 'maibubuga', 'exceptional', 'simple', 'man', 'designs', 'nya', 'performance', 'majestic', 'practical', 'newbies', 'oldies', 'madaling', 'matutunan', 'paggamit', 'organized', 'parts']",Convenience
+2021-05-29 11:58:19,"['effectively', 'nitong', 'nababawasan', 'intindihin', 'pagbabayad', 'monthly', 'contibution', 'government', 'offices', 'need', 'pumila', 'mahaba', 'tiisin', 'init', 'stresfull', 'experience', 'immediately', 'paid', 'agad', 'contributions']",Customer Support Related
+2021-05-29 14:38:20,"['review', 'qr', 'gives', 'impression', 'short', 'depiction', 'whereupon', 'item', 'depend', 'later', 'lot', 'fun', 'fast', 'helpful', 'hold']",Ease of Use
+2021-05-29 15:35:54,"['secured', 'protected', 'exchanges', 'considering', 'everything', 'security', 'one', 'worries', 'couple', 'gatherings', 'concerning', 'bleeding', 'edge', 'exchanging', 'never', 'envisioned', 'place', 'undeniable', 'degree', 'confidence', 'multifunctional', 'wallet', 'application']",Convenience
